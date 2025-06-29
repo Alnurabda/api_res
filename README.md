@@ -10,3 +10,7 @@ This script demonstrates how to connect to a Hikvision surveillance system and e
 ## Usage
 1. Create a `.env` file with your device credentials.
 2. Install dependencies:
+3. Run the main.py script
+
+## Disclaimer
+This repository contains modified code for demonstration purposes. Original configurations and internal resource identifiers have been excluded due to confidentiality agreements.
